@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.31b63e70.css",
+    "main.js": "/react-portfolio/static/js/main.e436bdb2.js",
+    "static/media/realestate.jpg": "/react-portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/workImg.jpeg": "/react-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/docker.svg": "/react-portfolio/static/media/docker.4362ba820fdfcf0bc460b11de6d0a894.svg",
+    "static/media/selenium.svg": "/react-portfolio/static/media/selenium.a00407a2be6e002ab03fe857aef0eb9e.svg",
+    "static/media/springboot.svg": "/react-portfolio/static/media/springboot.d8502b33af0b5e142a697e82676ae247.svg",
+    "static/media/postman.svg": "/react-portfolio/static/media/postman.930ce66db8d0102b08bfcecfc779c545.svg",
+    "static/media/apachekafka.svg": "/react-portfolio/static/media/apachekafka.b025c6b68b175bbb2c3be97423bd307f.svg",
+    "static/media/react.svg": "/react-portfolio/static/media/react.9342c38419495e33d129b6e97166cd00.svg",
+    "static/media/java.svg": "/react-portfolio/static/media/java.83165dfb2f5a7657ce4c73e0ba3cef32.svg",
+    "static/media/python.svg": "/react-portfolio/static/media/python.6a8b2999db46fb931134216e8fdfdb2c.svg",
+    "static/media/robotframework.svg": "/react-portfolio/static/media/robotframework.dfbd1a4584109402928120222b1fb860.svg",
+    "static/media/appium.svg": "/react-portfolio/static/media/appium.7d8941987bfe5c2fc8315a702312ee41.svg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/supabase.svg": "/react-portfolio/static/media/supabase.b32cf15eb5d165692b45e1704a27edb1.svg",
+    "main.31b63e70.css.map": "/react-portfolio/static/css/main.31b63e70.css.map",
+    "main.e436bdb2.js.map": "/react-portfolio/static/js/main.e436bdb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31b63e70.css",
+    "static/js/main.e436bdb2.js"
+  ]
+}
